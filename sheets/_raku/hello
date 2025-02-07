@@ -1,0 +1,5 @@
+# to install:
+#             (Debian/Ubuntu) apt-get install rakudo
+#             (Fedora/CentOS) yum install rakudo
+# to execute: raku my_script.pl
+say "Hello, World!"
